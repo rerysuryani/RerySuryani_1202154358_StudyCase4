@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RERYSURYANI_1202154358_STUDYCASE4</string>
+    <string-array name="namaMhs">
+        <item>Kim Namjoon</item>
+        <item>Kim Seokjin</item>
+        <item>Min Yoongi</item>
+        <item>Jung Hoseok</item>
+        <item>Park Jimin</item>
+        <item>Kim Taehyung</item>
+        <item>Jeon Jungkook</item>
+        <item>Kang Daniel</item>
+        <item>Ong Seongwoo</item>
+        <item>Park Woojin</item>
+        <item>Park Jihoon</item>
+        <item>Lai Guanlin</item>
+        <item>Park Jinyoung</item>
+
+    </string-array>
+</resources>
